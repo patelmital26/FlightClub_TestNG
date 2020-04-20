@@ -1,3 +1,3 @@
-# FlightClub_TestNG
+# FlightClub WebApplication Testing
 
-Parallel Testing of FlightClub website using Selenium and TestNG framework.
+Parallel Testing of FlightClub WebApplication using Selenium Automation and TestNG framework.
